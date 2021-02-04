@@ -1,0 +1,12 @@
+[package]
+name = "bedlam-cli"
+version = "0.0.0"
+authors = ["Zakarum <zakarumych@ya.ru>"]
+edition = "2018"
+description = "noise generator"
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/bedlam"
+keywords = ["no-std", "procedural", "noise", "cli"]
+categories = ["no-std", "algorithms", "cli"]
+repository = "https://github.com/zakarumych/bedlam"
+readme = "../README.md"
